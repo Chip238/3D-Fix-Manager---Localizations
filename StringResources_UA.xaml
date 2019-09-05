@@ -4,66 +4,66 @@
 
 
   <!-- Display Profiles Window Bar -->
-  <system:String x:Key="Monitor">Monitor</system:String>
-  <system:String x:Key="Projector">Projector</system:String>
-  <system:String x:Key="TV">TV</system:String>
+  <system:String x:Key="Monitor">Монітор</system:String>
+  <system:String x:Key="Projector">Проектор</system:String>
+  <system:String x:Key="TV">ТВ</system:String>
 
   <!-- Misc -->
-  <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
-  <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
-  <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
-  <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-  <system:String x:Key="ChangeLanguage">Change Language</system:String>
-  <system:String x:Key="Close">Close</system:String>
+  <system:String x:Key="LoadingApplication">Завантаження программи. Будь ласка, зачекайте...</system:String>
+  <system:String x:Key="SwitchToCompactGui">Переключитися до компактного виду інтерфейсу.</system:String>
+  <system:String x:Key="SwitchToNormalGui">Переключитися до повного виду інтерфейсу.</system:String>
+  <system:String x:Key="MinimizeToTray">Зменшити вікно до системного трею.</system:String>
+  <system:String x:Key="ChangeLanguage">Змінити мову</system:String>
+  <system:String x:Key="Close">Закрити</system:String>
 
-  <system:String x:Key="Show">Show</system:String>
-  <system:String x:Key="NoMatchFound">No Match found for</system:String>
+  <system:String x:Key="Show">Показати</system:String>
+  <system:String x:Key="NoMatchFound">Нічого не знайдено для</system:String>
 
   <!-- Tab header title -->
-  <system:String x:Key="Installation">Installation</system:String>
-  <system:String x:Key="Play">Play</system:String>
-  <system:String x:Key="EditProfile">Edit Profile</system:String>
-  <system:String x:Key="NewProfile">New Profile</system:String>
-  <system:String x:Key="Hotkeys">Hotkeys</system:String>
-  <system:String x:Key="3dfix">3D Fix</system:String>
-  <system:String x:Key="Profile">Profile</system:String>
-  <system:String x:Key="Settings">Settings</system:String>
-  <system:String x:Key="About">About</system:String>
-  <system:String x:Key="GeneralSettings">Application Settings</system:String>
-  <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
-  <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
+  <system:String x:Key="Installation">Установка</system:String>
+  <system:String x:Key="Play">Грати</system:String>
+  <system:String x:Key="EditProfile">Редагувати профіль</system:String>
+  <system:String x:Key="NewProfile">Новий профіль</system:String>
+  <system:String x:Key="Hotkeys">Горячі клавіши</system:String>
+  <system:String x:Key="3dfix">3D фікс</system:String>
+  <system:String x:Key="Profile">Профіль</system:String>
+  <system:String x:Key="Settings">Налаштування</system:String>
+  <system:String x:Key="About">Про додаток</system:String>
+  <system:String x:Key="GeneralSettings">Загальні налаштування</system:String>
+  <system:String x:Key="Nvidia3DSettings">Nvidia 3D налаштування</system:String>
+  <system:String x:Key="DisplayProfiles">Показати профілі</system:String>
 
   <!-- Game list on left column-->
-  <system:String x:Key="All">All Games</system:String>
-  <system:String x:Key="Installed">Installed Games</system:String>
-  <system:String x:Key="AllFixTypes">All Fix Types</system:String>
+  <system:String x:Key="All">Всі ігри</system:String>
+  <system:String x:Key="Installed">Інстальовані ігри</system:String>
+  <system:String x:Key="AllFixTypes">Всі типи фіксів</system:String>
   <system:String x:Key="_3dmigoto">3dmigoto (DX 11)</system:String>
   <system:String x:Key="Helixmod">Helixmod (DX 9)</system:String>
-  <system:String x:Key="OpenGLwrapper">OpenGL Wrapper</system:String>
-  <system:String x:Key="NotFixed">Without 3D Fix</system:String>
-  <system:String x:Key="VerifiedFixes">Verified 3D Fixes</system:String>
-  <system:String x:Key="UnverifiedFixes">Unverified 3D Fixes</system:String>
-  <system:String x:Key="VrCompatible">VR compatible</system:String>
-  <system:String x:Key="New">New</system:String>
-  <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
-  <system:String x:Key="Edit">Edit</system:String>
-  <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
-  <system:String x:Key="Delete">Delete</system:String>
-  <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+  <system:String x:Key="OpenGLwrapper">OpenGL wrapper</system:String>
+  <system:String x:Key="NotFixed">Без 3D фіксу</system:String>
+  <system:String x:Key="VerifiedFixes">Перевірені 3D фікси</system:String>
+  <system:String x:Key="UnverifiedFixes">Не перевірені 3D фікси</system:String>
+  <system:String x:Key="VrCompatible">VR сумісні</system:String>
+  <system:String x:Key="New">Новий</system:String>
+  <system:String x:Key="CreateProfileToolTip">Створити профіль фіксу</system:String>
+  <system:String x:Key="Edit">Редагувати</system:String>
+  <system:String x:Key="EditProfileToolTip">Редагувати профіль фіксу</system:String>
+  <system:String x:Key="Delete">Видалити</system:String>
+  <system:String x:Key="DeleteProfileToolTip">Видалити профіль фіксу</system:String>
 
   <!-- Installation Tab -->
-  <system:String x:Key="NoGamesInstalled">No compatible games installed.</system:String>
-  <system:String x:Key="Play2D">Play 2D</system:String>
-  <system:String x:Key="Play3D">Play 3D</system:String>
-  <system:String x:Key="PlayVr">Play in VR</system:String>
-  <system:String x:Key="InstallFix">Install 3D Fix</system:String>
-  <system:String x:Key="InstallFixCompleted">Install completed</system:String>
-  <system:String x:Key="BackupRecoveryFailed">Backup recovery failed.</system:String>
-  <system:String x:Key="InstallFixFailed">Install failed. Check Install Path</system:String>
-  <system:String x:Key="InstallFixFailed02" xml:space="preserve">Error: Fix could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
-  <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Error: Wrapper could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
-  <system:String x:Key="FixWrapperOutdated">This fix includes an outdated version of 3dmigoto.</system:String>
-  <system:String x:Key="DownloadFix">Download 3D Fix</system:String>
+  <system:String x:Key="NoGamesInstalled">Не встановленно сумісних ігор.</system:String>
+  <system:String x:Key="Play2D">Грати у 2D</system:String>
+  <system:String x:Key="Play3D">Грати у 3D</system:String>
+  <system:String x:Key="PlayVr">Грати у VR</system:String>
+  <system:String x:Key="InstallFix">Інстальваний 3D фікс</system:String>
+  <system:String x:Key="InstallFixCompleted">Встановлення завершено</system:String>
+  <system:String x:Key="BackupRecoveryFailed">Резервне віндновленя невдалося.</system:String>
+  <system:String x:Key="InstallFixFailed">Установка не вдалася. Перевірте шлях для інсталяції</system:String>
+  <system:String x:Key="InstallFixFailed02" xml:space="preserve">Помилка: Фикс не може бути встановлено.&#x0d;&#x0d;Переконайтеся, що 3D фікс менеджер запускається із правами адміністратора та спробуйте ще раз.</system:String>
+  <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Помилка: wrapper не може бути встановлено.&#x0d;&#x0d;Переконайтеся, що 3D фікс менеджер запускається із правами адміністратора та спробуйте ще раз.</system:String>
+  <system:String x:Key="FixWrapperOutdated">Цей фікс включає застарілу версію 3dmigoto.</system:String>
+  <system:String x:Key="DownloadFix">Завантажити 3D фікс</system:String>
   <system:String x:Key="UninstallFix">Uninstall 3D Fix</system:String>
   <system:String x:Key="UninstallFixCompleted">Uninstall completed</system:String>
   <system:String x:Key="UninstallFixFailed">Uninstall failed</system:String>
